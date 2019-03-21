@@ -1,0 +1,137 @@
+/*
+
+.row{
+    margin-left: -15px;
+    margin-right: -15px
+}
+.top-navs{
+    text-transform:uppercase;
+}
+.top-navs a{
+    padding: 15px;
+}
+.menu li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 35px;
+    font-weight: bold;
+}*/
+.top-navs{
+    padding-top: 30px;
+    text-transform: uppercase;
+   
+}
+.top-navs a{
+    padding: 15px;
+    font-weight: bold;
+}
+.top-navs a i{
+    color: green;
+    font-size: 20px;
+    height: 25px;
+    width: 25px;
+    
+}
+.menu ul li{
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 167px;
+    
+}
+.menu ul li a{
+    padding: 30px;
+    text-align: justify;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 0px;
+    color: black;
+}
+.menu ul li a:hover{
+    color: red;
+}
+.hder-mnu-text{
+    text-align: left;
+}
+.header-area-menu{
+    background: green;
+    color: white;
+    height: 40px;
+    width: 100%;
+}
+.slider-area{
+ position: relative;
+    
+}
+.slider-text{
+    height: 300px;
+    width: 800px;
+    padding-left: auto;
+    padding-right: auto;
+    background: rgba(0, 0, 0, 0.36);
+    color: #fff;
+    position: absolute;
+    padding: 20px;
+    border-radius: 10px;
+    z-index: 1;
+    top: 75%;
+    left: 21%;
+    
+}
+.banner-area{
+    height: 200px;
+    width: 100%;
+    background: url(img/bg-pattern.gif) repeat;
+}
+.events{
+    height: 300px;
+    width: 100%;
+    background: white;
+}
+.img_style{
+    padding: 30px;
+}
+.footer-area h3{
+    padding-left: 115px;
+    font-size: 15px;
+    color: gray;
+}
+
+
+/*---------------------------About page-----------------------------------*/
+
+
+.about-image{
+   /* background: url(img/about-images.jpg);*/
+}
+.about-menu{
+    height: 350px;
+    width: 100%;
+    background: white;
+    padding-top: 30px;
+}
+.btn{
+    padding: 20px;
+}
+.about-text h2{
+    color: green;
+    font-weight: 600;
+}
+/*-------------------------------Resoures page------------------------------------*/
+.recourses-image{
+    height: 690px;
+    width: 100%;
+    background: white;
+}
+.img-sizess{
+    padding-top: 40px;
+}
+.img-sizess img{
+    height: 250px;
+    width: 100%;
+}
+/*------------------------------------upcomming event-------------------------------*/
+
+.test{
+    padding-top: 50px;
+    background: rgba(227, 227, 227, 0.38);
+}
